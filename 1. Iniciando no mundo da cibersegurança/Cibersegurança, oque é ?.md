@@ -12,8 +12,8 @@ Segundo a _CYBERSECURITY & INFRAESTRUCTURE SECURITY AGENCY_
 
 Tem o foco em garantir que **dados** valiosos não vazem ou sejam violados em ataques cibernéticos
 
-> Ou seja, o foco principal da cibersegurança é a proteção de **dados**;
-> Dados levam á pessoas (Informações pessoais);
+> Ou seja, o foco principal da cibersegurança é a proteção de **dados**;<br>
+> Dados levam á pessoas (Informações pessoais);<br>
 > De certa forma, **dados** são comparados a um ativo extremamente valioso no conceito de TI (P.ex: Um dinheiro em um cofre)
 
 # Sobre cibersegurança
@@ -49,7 +49,7 @@ Dentro do universo da cibersegurança, algumas categorias podem ser definidas, d
 
 É encarregada de proteger a rede contra acessos indevidos e ataques como DoS (Denial of Service)
 
-> Segurança de redes não é apenas deixar portas fechadas, barrar por IP, criar listas de controle de acesso
+> Segurança de redes não é apenas deixar portas fechadas, barrar por IP, criar listas de controle de acesso<br>
 > Mas também pontos de rede fisicos (P.ex: Impedir que alguém chegue com um cabo de rede e plugue no computador)
 
 ## Segurança de Aplicativos
