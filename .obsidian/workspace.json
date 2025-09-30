@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "0ea426c8a6c2fad9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cac31e3d388912e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b089dbec456aca4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Iniciando no mundo da cibersegurança/Principais tipos de ameaças.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principais tipos de ameaças"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38205606bdcbcebc",
+    "type": "split",
+    "children": [
+      {
+        "id": "95c2309d0a21f7cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13068d6760b5d32a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "9894a57721edc046",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "7bfc64a61ffece65",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f26ec42e0f3a60d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eb38f1f1b9dd716",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1cadba8796e91fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Iniciando no mundo da cibersegurança/Principais tipos de ameaças.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Principais tipos de ameaças"
+            }
+          },
+          {
+            "id": "720709e4f82f7cae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Iniciando no mundo da cibersegurança/Principais tipos de ameaças.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Principais tipos de ameaças"
+            }
+          },
+          {
+            "id": "f54f8aa5ab8d3c5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fbb38226ebfbe550",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Iniciando no mundo da cibersegurança/Principais tipos de ameaças.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Principais tipos de ameaças"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "b089dbec456aca4d",
+  "lastOpenFiles": [
+    "1. Iniciando no mundo da cibersegurança/O que é Hacking ?.md",
+    "1. Iniciando no mundo da cibersegurança/Introdução.md",
+    "1. Iniciando no mundo da cibersegurança/Cibersegurança, oque é ?.md",
+    "1. Iniciando no mundo da cibersegurança/Principais tipos de ameaças.md",
+    "Sem título.md",
+    "Sem título 1.md"
+  ]
+}
