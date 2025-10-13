@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Fundamentos de redes de computadores/Privacidade com Proxy e VPN.md",
+                "file": "4. Deep Web e anonimização/Navegação anônima com Proxy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Privacidade com Proxy e VPN"
+              "title": "Navegação anônima com Proxy"
             }
           }
         ]
@@ -171,8 +171,16 @@
   },
   "active": "b089dbec456aca4d",
   "lastOpenFiles": [
-    "3. Fundamentos de redes de computadores/Endereços de IP.md",
+    "4. Deep Web e anonimização/Navegação anônima com VPN.md",
+    "4. Deep Web e anonimização/Navegação anônima com Proxy.md",
+    "4. Deep Web e anonimização/Instalando o Tails Linux no Virtual Box.md",
+    "4. Deep Web e anonimização/Navegando na Deep Web com Tor Browser.md",
+    "4. Deep Web e anonimização/Dark Web ou Dark Web, o que é ?.md",
+    "4. Deep Web e anonimização/Introdução.md",
+    "Sem título.md",
     "3. Fundamentos de redes de computadores/Privacidade com Proxy e VPN.md",
+    "4. Deep Web e anonimização",
+    "3. Fundamentos de redes de computadores/Endereços de IP.md",
     "3. Fundamentos de redes de computadores/Introdução.md",
     "3. Fundamentos de redes de computadores/Protocolos de redes de computadores.md",
     "README.md",
@@ -186,17 +194,11 @@
     "2. Trabalhando com sistemas operacionais/Instalando o VirtualBox.md",
     "2. Trabalhando com sistemas operacionais/Instalando o Windows 7 no VirtualBox.md",
     "2. Trabalhando com sistemas operacionais/Sem título 1.md",
-    "Sem título.md",
     "2. Trabalhando com sistemas operacionais/Conceitos base sobre sistemas operacionais.md",
     "2. Trabalhando com sistemas operacionais/Sistemas Operacionais baseados em Linux.md",
     "2. Trabalhando com sistemas operacionais/Windows.md",
     "1. Iniciando no mundo da cibersegurança/BlueTeam Vs RedTeam.md",
     "2. Trabalhando com sistemas operacionais",
-    "1. Iniciando no mundo da cibersegurança/Firewall IDS Evasion and Spoofing.md",
-    "1. Iniciando no mundo da cibersegurança/Principais tipos de ameaças.md",
-    "1. Iniciando no mundo da cibersegurança/O que é Hacking ?.md",
-    "1. Iniciando no mundo da cibersegurança/Cibersegurança, oque é ?.md",
-    "1. Iniciando no mundo da cibersegurança/Boas praticas em cibersegurança.md",
-    "Sem título 1.md"
+    "1. Iniciando no mundo da cibersegurança/Firewall IDS Evasion and Spoofing.md"
   ]
 }
