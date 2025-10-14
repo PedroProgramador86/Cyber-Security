@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Desafios de Código/PBL, Lógica e Pensamento Computacional.md",
+                "file": "6. Fundamentos de Pentest/O que é Pentest ?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PBL, Lógica e Pensamento Computacional"
+              "title": "O que é Pentest ?"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f26ec42e0f3a60d1",
@@ -171,22 +172,25 @@
   },
   "active": "b089dbec456aca4d",
   "lastOpenFiles": [
-    "4. Deep Web e anonimização/Navegação anônima com Proxy.md",
-    "5. Desafios de Código/PBL, Lógica e Pensamento Computacional.md",
-    "5. Desafios de Código",
-    "4. Deep Web e anonimização/Navegação anônima com VPN.md",
-    "4. Deep Web e anonimização/Instalando o Tails Linux no Virtual Box.md",
-    "4. Deep Web e anonimização/Navegando na Deep Web com Tor Browser.md",
-    "4. Deep Web e anonimização/Dark Web ou Dark Web, o que é ?.md",
-    "4. Deep Web e anonimização/Introdução.md",
-    "Sem título.md",
-    "3. Fundamentos de redes de computadores/Privacidade com Proxy e VPN.md",
-    "4. Deep Web e anonimização",
-    "3. Fundamentos de redes de computadores/Endereços de IP.md",
-    "3. Fundamentos de redes de computadores/Introdução.md",
+    "6. Fundamentos de Pentest/Introdução.md",
     "3. Fundamentos de redes de computadores/Protocolos de redes de computadores.md",
-    "README.md",
+    "3. Fundamentos de redes de computadores/Privacidade com Proxy e VPN.md",
+    "3. Fundamentos de redes de computadores/Introdução.md",
+    "3. Fundamentos de redes de computadores/Endereços de IP.md",
     "3. Fundamentos de redes de computadores/Conceitos de redes de computadores.md",
+    "4. Deep Web e anonimização/Navegando na Deep Web com Tor Browser.md",
+    "4. Deep Web e anonimização/Navegação anônima com VPN.md",
+    "4. Deep Web e anonimização/Navegação anônima com Proxy.md",
+    "4. Deep Web e anonimização/Introdução.md",
+    "4. Deep Web e anonimização/Instalando o Tails Linux no Virtual Box.md",
+    "4. Deep Web e anonimização/Dark Web ou Dark Web, o que é ?.md",
+    "6. Fundamentos de Pentest/O que é Pentest ?.md",
+    "Sem título.md",
+    "5. Desafios de Código/PBL, Lógica e Pensamento Computacional.md",
+    "6. Fundamentos de Pentest",
+    "5. Desafios de Código",
+    "4. Deep Web e anonimização",
+    "README.md",
     "1. Iniciando no mundo da cibersegurança/Introdução.md",
     "2. Trabalhando com sistemas operacionais/Introdução.md",
     "2. Trabalhando com sistemas operacionais/Instalando o kali Linux no VirtualBox.md",
@@ -198,8 +202,6 @@
     "2. Trabalhando com sistemas operacionais/Sem título 1.md",
     "2. Trabalhando com sistemas operacionais/Conceitos base sobre sistemas operacionais.md",
     "2. Trabalhando com sistemas operacionais/Sistemas Operacionais baseados em Linux.md",
-    "2. Trabalhando com sistemas operacionais/Windows.md",
-    "1. Iniciando no mundo da cibersegurança/BlueTeam Vs RedTeam.md",
     "2. Trabalhando com sistemas operacionais"
   ]
 }
